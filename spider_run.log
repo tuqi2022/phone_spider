@@ -1,0 +1,86 @@
+============================================================
+电信号码爬虫 - 启动中...
+目标城市: 深圳
+============================================================
+正在访问网站: https://gd.189.cn/TS/tysj/xhb/index.html#/
+等待页面加载...
+等待地区选择弹窗...
+选择城市: 深圳
+城市选择完成
+
+正在搜索模式: 000*
+  📱 18124070483 - 最低消费0元/月
+  📱 18025362270 - 最低消费0元/月
+  📱 18033431460 - 最低消费0元/月
+  📱 15323487489 - 最低消费0元/月
+  📱 17727821956 - 最低消费0元/月
+  📱 18038073550 - 最低消费0元/月
+  📱 17727841198 - 最低消费0元/月
+  📱 17727422428 - 最低消费0元/月
+找到 8 个号码
+
+正在搜索模式: 111*
+  📱 18124701114 - 最低消费0元/月
+  📱 18926471114 - 最低消费0元/月
+找到 2 个号码
+
+正在搜索模式: 222*
+等待号码列表超时或出错: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("ul > li") to be visible
+
+找到 0 个号码
+
+正在搜索模式: 333*
+等待号码列表超时或出错: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("ul > li") to be visible
+
+找到 0 个号码
+
+正在搜索模式: 444*
+  📱 18123784446 - 最低消费0元/月
+  📱 18124714445 - 最低消费0元/月
+  📱 18127084446 - 最低消费0元/月
+  📱 18123704445 - 最低消费0元/月
+  📱 18927404442 - 最低消费0元/月
+  📱 18126174445 - 最低消费0元/月
+  📱 15302784441 - 最低消费0元/月
+  📱 18118764442 - 最低消费0元/月
+找到 8 个号码
+
+正在搜索模式: 555*
+等待号码列表超时或出错: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("ul > li") to be visible
+
+找到 0 个号码
+
+正在搜索模式: 666*
+等待号码列表超时或出错: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("ul > li") to be visible
+
+找到 0 个号码
+
+正在搜索模式: 777*
+  📱 15323767774 - 最低消费0元/月
+找到 1 个号码
+
+正在搜索模式: 888*
+等待号码列表超时或出错: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("ul > li") to be visible
+
+找到 0 个号码
+
+正在搜索模式: 999*
+等待号码列表超时或出错: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("ul > li") to be visible
+
+找到 0 个号码
+
+📁 结果已保存到: phones_深圳_20260107_114306.json
+
+✅ 爬取完成！共找到 19 个号码
